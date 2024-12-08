@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (3º período)  <br>💻 Experiência com **C**, **HTML**, **CSS** e **JavaScript**  <br>🚀 Atualmente aprendendo React Native e consumo de APIs</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º período)  <br>💻 Experiência com C, HTML, CSS e JavaScript  <br>🚀 Atualmente aprendendo React Native e consumo de APIs</p>
 
 ###
 
