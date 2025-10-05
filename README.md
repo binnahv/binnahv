@@ -2,12 +2,5 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período)  <br>💻 Experiência com C, HTML, CSS e JavaScript  <br>🚀 Atualmente aprendendo React Native e consumo de APIs</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período)  <br>💻 Experiência com C, Python e JavaScript   <br>🚀 Atualmente aprendendo React Native e consumo de APIs</p>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binnahv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
