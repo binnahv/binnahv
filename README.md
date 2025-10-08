@@ -2,5 +2,5 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º período)  <br>💻 Experiência com C, Python e JavaScript  </p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º período)  <br>💻 C, Python e JavaScript  </p>
 
