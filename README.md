@@ -2,5 +2,5 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>💻 C, Python e JavaScript  </p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>💻 C, Java, Python e JavaScript  </p>
 
